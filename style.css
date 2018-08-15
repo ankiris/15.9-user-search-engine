@@ -1,18 +1,23 @@
 body {
-    background-color: rgb(138, 196, 247);
+    background-color: rgb(176, 218, 255);
     font-family: 'Courier New', Courier, monospace;
 }
 div {
-    margin: 20px;
+    margin: 0 auto;
     padding: 5px;
   }
 form {
-
+    height: 30px;
+    padding: 5px;
+}
+label {
+    padding: 5px;
 }
 a {
     text-decoration: none;
-    color: #666;
+    color: black;
 }
-    a:hover {
+a:hover {
     text-decoration: underline;
+    color: royalblue;
 }
